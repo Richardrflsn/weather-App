@@ -21,7 +21,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    box-shadow: 0px 0px 19px 0px #0077b6;
+    box-shadow: 0px 0px 19px 0px black;
 }
 
 #weatherForm input {
